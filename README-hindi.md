@@ -8,7 +8,7 @@
 
 <div align="center">
 
-**The most powerful string package to create a simple and fast Discord Bot.**
+**सबसे शक्तिशाली string package जिससे एक आसान और तेज़ Discord Bot बनाया जा सकता है।**
 
 [![NPM version][npm-image]][npm-url]
 [![AoiJS Server][aoijs-server]][aoijs-server-url]
@@ -24,17 +24,17 @@
 
 [Preview](https://aoi.js.org/docs/example.md)
 
-English | [Japanese](./README-jp.md) | [Spanish](./README-spanish.md) | [Hindi](./README-hindi.md)
+[English](./README.md) | [Japanese](./README-jp.md) | [Spanish](./README-spanish.md) | Hindi
 
 </div>
 
-## Features
+## इनके गुण
 
-- Powerful built-in made functions with simple usages.
-- Written in TypeScript to easily provide functional errors.
-- Updated with several extensions supported from [Akarui Development](https://github.com/AkaruiDevelopment/) sideloading. 
+- शक्तिशाली अपने आप में बने हुए functions है जिन्हें उपयोग करना बहुत आसान है।
+- यह TypeScript में लिखा हुआ है जिससे functional errors के प्रति आसान मद्द दिया जा सके।
+- बहुत से extensions के साथ अपडेटेड है जिससे [Akarui Development](https://github.com/AkaruiDevelopment/) अपने sideloading के माध्यम से मद्द कर रहे हैं। 
 
-## Install
+## इंस्टॉल
 
 ```bash
 npm install aoi.js
@@ -44,7 +44,7 @@ npm install aoi.js
 yarn add aoi.js
 ```
 
-## Example 
+## उदाहरण 
 
 ```javascript
 const { AoiClient } = require("aoi.js");
