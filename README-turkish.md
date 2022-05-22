@@ -8,7 +8,7 @@
 
 <div align="center">
 
-**The most powerful string package to create a simple and fast Discord Bot.**
+**Basit ve hızlı bir Discord Botu oluşturmak için en güçlü paket.**
 
 [![NPM version][npm-image]][npm-url]
 [![AoiJS Server][aoijs-server]][aoijs-server-url]
@@ -22,19 +22,19 @@
 [aoijs-server]: https://img.shields.io/discord/773352845738115102?color=5865F2&logo=discord&logoColor=white
 [aoijs-server-url]: https://aoi.js.org/invite
 
-[Preview](https://aoi.js.org/docs/example.md)
+[Ön izleme](https://aoi.js.org/docs/example.md)
 
-English | [Japanese](./README-jp.md) | [Spanish](./README-spanish.md) | [Turkish](./README-turkish.md)
+English | [Japanese](./README-jp.md) | [Spanish](./README-spanish.md)
 
 </div>
 
-## Features
+## Özellikler
 
-- Powerful built-in made functions with simple usages.
-- Written in TypeScript to easily provide functional errors.
-- Updated with several extensions supported from [Akarui Development](https://github.com/AkaruiDevelopment/) sideloading. 
+- Basit kullanımlarla güçlü yerleşik işlevler.
+- İşlevsel hataları kolayca sağlamak için TypeScript ile yazılmıştır.
+- [Akarui Development](https://github.com/AkaruiDevelopment/) sideloading'den desteklenen çeşitli uzantılarla güncellendi.
 
-## Install
+## Kurulum
 
 ```bash
 npm install aoi.js
@@ -44,7 +44,7 @@ npm install aoi.js
 yarn add aoi.js
 ```
 
-## Example 
+## Örnek
 
 ```javascript
 const { AoiClient } = require("aoi.js");
